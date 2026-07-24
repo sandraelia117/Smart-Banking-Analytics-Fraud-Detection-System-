@@ -200,6 +200,44 @@ smart-banking-analytics/
 
 ## ✅ Skills Demonstrated
 
+## 👥 🧱 Team Roles & contributions
+
+
+👩‍💻 Sandra Elia Attia Ibrahim – Team Lead | Data Engineering & AI Developer
+
+Designed and implemented the complete Python application using Streamlit.
+Developed the Executive Dashboard, Fraud Detection workflow, and AI Banking Assistant.
+Built the Machine Learning fraud detection model and integrated the AI features (Gemini/Groq).
+Designed and created the PostgreSQL Operational Database.
+Designed and implemented the Data Warehouse tables (Star Schema).
+Performed data analysis and implemented the fraud analytics logic.
+Integrated all project modules into one end-to-end banking system.
+https://github.com/sandraelia117
+
+
+👩‍💻 Salma – ETL Engineer
+
+Developed the ETL Pipeline (Extract, Transform, Load).
+Extracted data from CSV files, transformed and cleaned the datasets.
+Loaded the processed data into the Data Warehouse.
+https://github.com/salmakelany
+
+👨‍💻 Mostafa – Database Designer
+
+Designed the Entity Relationship Diagram (ERD).
+Designed the Data Warehouse architecture and Star Schema documentation.
+https://www.linkedin.com/in/mostafa-talaat-zaki-a19441413?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
+
+👨‍💻 Abdelrahman – BI Dashboard Developer
+
+Designed and developed the Business Intelligence Dashboard for data visualization and reporting.
+https://github.com/1sa3dany
+
+👨‍💻 Mohamed – Presentation & Documentation
+
+Prepared the project presentation and presentation materials for the final project demonstration.
+
 Data Engineering · ETL Development · Database Design · Data Warehousing · Star Schema Modeling · Business Intelligence · Machine Learning · Generative AI Integration
 
 ---
