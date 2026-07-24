@@ -1,0 +1,105 @@
+/* Smart Banking Analytics & Fraud Detection System CSS */
+
+:root {
+    --bank-primary: #0f172a;
+    --bank-accent: #0284c7;
+    --bank-bg-card: #1e293b;
+    --bank-border: #334155;
+    --bank-text-muted: #94a3b8;
+}
+
+/* Risk Badges */
+.risk-badge {
+    display: inline-block;
+    padding: 6px 18px;
+    border-radius: 20px;
+    font-weight: 700;
+    font-size: 0.95rem;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+}
+
+.risk-LOW {
+    background-color: #14532d;
+    color: #4ade80;
+    border: 1px solid #22c55e;
+}
+
+.risk-MEDIUM {
+    background-color: #713f12;
+    color: #facc15;
+    border: 1px solid #eab308;
+}
+
+.risk-HIGH {
+    background-color: #7c2d12;
+    color: #fb923c;
+    border: 1px solid #f97316;
+}
+
+.risk-CRITICAL {
+    background-color: #7f1d1d;
+    color: #f87171;
+    border: 1px solid #ef4444;
+}
+
+/* Rule Chips */
+.rule-chip {
+    display: inline-block;
+    padding: 6px 14px;
+    margin: 4px;
+    border-radius: 16px;
+    font-size: 0.85rem;
+    font-weight: 600;
+}
+
+.rule-on {
+    background-color: #7c2d12;
+    color: #fdba74;
+    border: 1px solid #ea580c;
+}
+
+.rule-off {
+    background-color: #1f2937;
+    color: #9ca3af;
+    border: 1px solid #374151;
+}
+
+/* Banking Cards */
+.banking-card {
+    background-color: #1e293b;
+    border: 1px solid #334155;
+    border-radius: 12px;
+    padding: 16px;
+    margin-bottom: 12px;
+}
+
+.banking-card-title {
+    font-size: 0.85rem;
+    color: #94a3b8;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-bottom: 4px;
+}
+
+.banking-card-value {
+    font-size: 1.15rem;
+    font-weight: 600;
+    color: #f8fafc;
+}
+
+/* Status Badges */
+.status-completed {
+    color: #4ade80;
+    font-weight: 600;
+}
+
+.status-pending {
+    color: #facc15;
+    font-weight: 600;
+}
+
+.status-failed {
+    color: #f87171;
+    font-weight: 600;
+}
