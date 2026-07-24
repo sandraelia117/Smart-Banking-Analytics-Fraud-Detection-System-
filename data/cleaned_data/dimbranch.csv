@@ -1,9 +1,0 @@
-"branchkey","branchid","branchname","city","region","managername","openingdate"
-1,1,"Zagazig Branch 1","Zagazig","Cairo Region",NULL,NULL
-2,2,"Luxor Branch 2","Luxor","Cairo Region",NULL,NULL
-3,3,"Damietta Branch 3","Damietta","Alexandria Region",NULL,NULL
-4,4,"Tanta Branch 4","Tanta","Delta Region",NULL,NULL
-5,5,"Tanta Branch 5","Tanta","Cairo Region",NULL,NULL
-6,6,"Ismailia Branch 6","Ismailia","Delta Region",NULL,NULL
-7,7,"Aswan Branch 7","Aswan","Upper Egypt",NULL,NULL
-8,8,"Damietta Branch 8","Damietta","Delta Region",NULL,NULL
