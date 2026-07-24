@@ -226,7 +226,7 @@ https://github.com/salmakelany
 
 Designed the Entity Relationship Diagram (ERD).
 Designed the Data Warehouse architecture and Star Schema documentation.
-https://www.linkedin.com/in/mostafa-talaat-zaki-a19441413?utm_source=share_via&utm_content=profile&utm_medium=member_android
+https://github.com/mostafatzakii-hue
 
 
 👨‍💻 Abdelrahman – BI Dashboard Developer
